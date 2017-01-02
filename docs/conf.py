@@ -32,7 +32,7 @@ _basename = 'overloading'
 _title = 'overloading.py documentation'
 _subtitle = 'Function overloading for Python 3'
 _project_url = 'https://github.com/bintoro/overloading.py'
-_doc_url = 'https://overloading.readthedocs.org'
+_doc_url = 'https://overloading.readthedocs.io'
 
 version = __version__
 release = __version__

@@ -6,7 +6,7 @@ overloading.py
 Function overloading for Python 3
 
 * Project repository: https://github.com/bintoro/overloading.py
-* Documentation: https://overloading.readthedocs.org/
+* Documentation: https://overloading.readthedocs.io/
 
 Copyright © 2014–2016 Kalle Tuure. Released under the MIT License.
 

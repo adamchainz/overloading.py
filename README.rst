@@ -57,7 +57,7 @@ Features
 Documentation
 =============
 
-The full documentation is available at https://overloading.readthedocs.org/.
+The full documentation is available at https://overloading.readthedocs.io/.
 
 
 Installation
